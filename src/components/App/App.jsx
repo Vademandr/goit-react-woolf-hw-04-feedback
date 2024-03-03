@@ -1,5 +1,4 @@
 import { useState } from 'react';
-// import React, { Component } from 'react';
 import { Container } from './App.styled';
 import { Section } from '../Section/Section';
 import { Feedback } from '../Feedback/Feedback';
